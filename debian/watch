@@ -1,0 +1,3 @@
+version=3
+opts=dversionmangle=s/\+dfsg\d+$// \
+http://pypi.python.org/packages/source/i/itsdangerous/ itsdangerous-(.+)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))

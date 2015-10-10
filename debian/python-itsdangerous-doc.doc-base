@@ -1,0 +1,9 @@
+Document: python-itsdangerous-doc
+Title: Itsdangerous Documentation
+Author: Armin Ronacher <armin.ronacher@active-4.com>
+Abstract: Sphinx documentation for Itsdangerous
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-itsdangerous-doc/html/index.html
+Files: /usr/share/doc/python-itsdangerous-doc/html/*

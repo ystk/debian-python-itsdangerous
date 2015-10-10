@@ -1,0 +1,29 @@
+python-itsdangerous (0.24+dfsg1-1) unstable; urgency=medium
+
+  [ Simon Fondrie-Teitler ]
+  * New upstream release.
+  * Bump standards version.
+
+  [ Thomas Goirand ]
+  * Add packaging of sphinx doc.
+
+ -- Simon Fondrie-Teitler <simonft@riseup.net>  Sat, 24 May 2014 16:53:52 -0400
+
+python-itsdangerous (0.22+dfsg1-1) unstable; urgency=low
+
+  * New upstream release.
+  * Added a debian/gbp.conf
+  * Added debian/rules for upstream repository git management.
+  * Ran wrap-and-sort, moved Homepage filed at the end of 1st block.
+  * Removed useless python (>= 2.6) depends:.
+  * Adds the build of python3 package.
+  * Adds myself as uploader, sets python-module as team, and adds VCS fields.
+  * rm -rf build itsdangerous.egg-info on clean.
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 17 Jul 2013 05:33:11 +0000
+
+python-itsdangerous (0.17-1) unstable; urgency=low
+
+  * Initial release. Closes: 703934
+
+ -- Simon Fondrie-Teitler <simonft@riseup.net>  Mon, 25 Mar 2013 17:06:37 -0500
